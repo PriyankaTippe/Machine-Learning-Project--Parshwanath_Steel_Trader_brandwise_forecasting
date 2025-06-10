@@ -3,7 +3,6 @@
 
 This project applies machine learning to forecast brandwise stock quantities for **Parshwanath Steel Trading** using **data stored in a SQL database**. It uses a **Linear Regression model** to predict future stock needs, helping optimize inventory planning.
 
----
 
 ## 📌 Project Overview
 
@@ -11,7 +10,6 @@ This project helps the steel trading business forecast **brandwise stock levels*
 
 Using **SQL** for data handling and **Python** for machine learning, this project demonstrates a real-world application of data science in inventory forecasting.
 
----
 
 ## 🔄 Project Workflow
 
@@ -42,7 +40,6 @@ Using **SQL** for data handling and **Python** for machine learning, this projec
    - Predicted future stock values for each brand.
    - Visualized actual vs predicted stock levels.
 
----
 
 ## 🛠️ Tech Stack Used
 
@@ -53,7 +50,6 @@ Using **SQL** for data handling and **Python** for machine learning, this projec
 - **Scikit-learn** (machine learning)
 - **Jupyter Notebook**
 
----
 
 ## 🧠 Key Insights
 
